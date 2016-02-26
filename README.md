@@ -1,2 +1,2 @@
 # flag-game
-guess the flag game
+Guess the flag game
